@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2024/11/21/found-this-anole.html",
+				
+				"content_html": "<p>Found this anole underneath a concrete block on my work pile out back. It was slow to move in the cool autumn air so I snappwd this portrait.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Found this anole underneath a concrete block on my work pile out back. It was slow to move in the cool autumn air so I snappwd this portrait. \n\n<img src=\"uploads/2024/8ab21f8ee7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-11-21T16:31:22-05:00",
+				"url": "https://smol.zuiker.com/2024/11/21/found-this-anole.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2024/11/17/i-am-trying.html",
+				
+				"content_html": "<p>I am trying to eat more beans. Recently, I <a href=\"http://zuiker.com/above-and-below\">ruined a pot by over salting</a>. Today, I&rsquo;ve cooked the beans to mush. Still learning.</p>\n",
+				"content_text": "I am trying to eat more beans. Recently, I [ruined a pot by over salting](http://zuiker.com/above-and-below). Today, I've cooked the beans to mush. Still learning.\n",
+				"date_published": "2024-11-17T17:42:30-05:00",
+				"url": "https://smol.zuiker.com/2024/11/17/i-am-trying.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2024/11/13/the-red-fox.html",
+				
+				"content_html": "<p>The red fox nabbed one of our hens today. I ran outside, fox dropped chicken, neck was broken and it died shortly after. I buried it in the woods and locked the three remaining hens inside the coop.</p>\n",
+				"content_text": "The red fox nabbed one of our hens today. I ran outside, fox dropped chicken, neck was broken and it died shortly after. I buried it in the woods and locked the three remaining hens inside the coop. \n",
+				"date_published": "2024-11-13T15:45:13-05:00",
+				"url": "https://smol.zuiker.com/2024/11/13/the-red-fox.html"
+			},
+			{
 				"id": "http://anton.micro.blog/2024/11/13/while-we-were.html",
 				
-				"content_html": "<p>While we were driving through the vineyards of Napa Valley last week, I told Erin that I expected the Republicans to quickly propose a constitutional amendment to allow Trump to run for a third term. Once you know it, today’s headline says Trump is already joking about another term. #madness</p>\n",
-				"content_text": "While we were driving through the vineyards of Napa Valley last week, I told Erin that I expected the Republicans to quickly propose a constitutional amendment to allow Trump to run for a third term. Once you know it, today’s headline says Trump is already joking about another term. #madness\n",
+				"content_html": "<p>While we were driving through the vineyards of Napa Valley last week, I told Erin that I expected the Republicans to quickly propose a constitutional amendment to allow Trump to run for a third term. Wouldn’t you know it, today’s headline says Trump is already joking about another term. #madness</p>\n",
+				"content_text": "While we were driving through the vineyards of Napa Valley last week, I told Erin that I expected the Republicans to quickly propose a constitutional amendment to allow Trump to run for a third term. Wouldn’t you know it, today’s headline says Trump is already joking about another term. #madness\n",
 				"date_published": "2024-11-13T15:37:36-05:00",
 				"url": "https://smol.zuiker.com/2024/11/13/while-we-were.html"
 			},
@@ -26,7 +50,7 @@
 				"id": "http://anton.micro.blog/2024/11/09/most-saturdays-i.html",
 				
 				"content_html": "<p>Most Saturdays I visit the Carborro Farmers Market (North Carolina). Today I am on the other side of rhe country at the Davis Farmers Market (California).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Most Saturdays I visit the Carborro Farmers Market (North Carolina). Today I am on the other side of rhe country at the Davis Farmers Market (California).\n\n<img src=\"uploads/2024/0d6e42a72f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Most Saturdays I visit the Carborro Farmers Market (North Carolina). Today I am on the other side of rhe country at the Davis Farmers Market (California).\n\n<img src=\"https://cdn.uploads.micro.blog/348/2024/0d6e42a72f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-09T13:17:22-05:00",
 				"url": "https://smol.zuiker.com/2024/11/09/most-saturdays-i.html"
 			},
