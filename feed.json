@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2024/12/16/im-learning-the.html",
+				
+				"content_html": "<p>I’m learning the lingo. Asked my daughter (Malia, arrived home ladt night from semester in Madrid) for a fit check this morning. I am wearing my Celtic soccer jersey and green-striped Adidas Sambas. She approved.</p>\n",
+				"content_text": "I’m learning the lingo. Asked my daughter (Malia, arrived home ladt night from semester in Madrid) for a fit check this morning. I am wearing my Celtic soccer jersey and green-striped Adidas Sambas. She approved. \n",
+				"date_published": "2024-12-16T09:12:43-05:00",
+				"url": "https://smol.zuiker.com/2024/12/16/im-learning-the.html"
+			},
+			{
 				"id": "http://anton.micro.blog/2024/12/08/two-hours-on.html",
 				
 				"content_html": "<p>Two hours on the soccer pitch this morning, the crisp and cold blossoming into a sunny and warm day. Felt great to move. Been a great weekend so far.</p>\n",
@@ -209,8 +217,8 @@
 			{
 				"id": "http://anton.micro.blog/2024/10/27/walk-to-vote.html",
 				"title": "Walk To Vote",
-				"content_html": "<p><img src=\"https://smol.zuiker.com/uploads/2024/f881f5fab1.jpg\" alt=\"selfie with IVoted sticker\"></p>\n<p>Microcast from Carrboro Town Plaza just after I cast my ballot.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "![selfie with IVoted sticker](https://smol.zuiker.com/uploads/2024/f881f5fab1.jpg)\n\nMicrocast from Carrboro Town Plaza just after I cast my ballot. \n\n<audio controls=\"controls\" src=\"https://smol.zuiker.com/uploads/2024/3057d8337e.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/10/27/1594.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/348/2024/f881f5fab1.jpg\" alt=\"selfie with IVoted sticker\"></p>\n<p>Microcast from Carrboro Town Plaza just after I cast my ballot.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "![selfie with IVoted sticker](https://cdn.uploads.micro.blog/348/2024/f881f5fab1.jpg)\n\nMicrocast from Carrboro Town Plaza just after I cast my ballot. \n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/348/2024/3057d8337e.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/10/27/1594.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-10-27T15:23:35-05:00",
 				"url": "https://smol.zuiker.com/2024/10/27/walk-to-vote.html"
 			},
@@ -314,7 +322,7 @@
 				"id": "http://anton.micro.blog/2024/09/26/a-morning-microcast.html",
 				
 				"content_html": "<p>A morning microcast to explain my latest blog post on the Zuiker Chronicles (<a href=\"http://zuiker.com/a-list-of-profiles-i-ve-written\">A list of profiles I&rsquo;ve written</a>) and the writing goals that are in my 5-year &ldquo;vivid vision.&rdquo;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>h/t <a href=\"https://cameronherold.com/vivid-vision/\">Cameron Herold</a> for the Vivid Vision inspiration.</p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A morning microcast to explain my latest blog post on the Zuiker Chronicles ([A list of profiles I've written](http://zuiker.com/a-list-of-profiles-i-ve-written)) and the writing goals that are in my 5-year \"vivid vision.\"\n\n<audio controls=\"controls\" src=\"https://smol.zuiker.com/uploads/2024/vividvisionwriting.mp3\" preload=\"metadata\"></audio>\n\nh/t [Cameron Herold](https://cameronherold.com/vivid-vision/) for the Vivid Vision inspiration.\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/09/26/1518.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "A morning microcast to explain my latest blog post on the Zuiker Chronicles ([A list of profiles I've written](http://zuiker.com/a-list-of-profiles-i-ve-written)) and the writing goals that are in my 5-year \"vivid vision.\"\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/348/2024/vividvisionwriting.mp3\" preload=\"metadata\"></audio>\n\nh/t [Cameron Herold](https://cameronherold.com/vivid-vision/) for the Vivid Vision inspiration.\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/09/26/1518.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-09-26T08:36:46-05:00",
 				"url": "https://smol.zuiker.com/2024/09/26/a-morning-microcast.html"
 			},
@@ -845,7 +853,7 @@
 				"id": "http://anton.micro.blog/2024/05/04/raindrops-and-turtles.html",
 				"title": "Raindrops and Turtles",
 				"content_html": "<p>Another walk in the woods to find box turtles and listen to the birds and cicadas.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "Another walk in the woods to find box turtles and listen to the birds and cicadas. \n\n<audio controls=\"controls\" src=\"https://smol.zuiker.com/uploads/2024/2b31c96f83.mp3\" preload=\"metadata\">\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/05/04/1079.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "Another walk in the woods to find box turtles and listen to the birds and cicadas. \n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/348/2024/2b31c96f83.mp3\" preload=\"metadata\">\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/05/04/1079.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-05-04T10:59:06-05:00",
 				"url": "https://smol.zuiker.com/2024/05/04/raindrops-and-turtles.html",
 				"tags": ["turtles"]
@@ -863,7 +871,7 @@
 				"id": "http://anton.micro.blog/2024/05/02/hum-of-cicadas.html",
 				"title": "Hum of Cicadas",
 				"content_html": "<p>From Chapel Hill, North Carolina, a moment in the woods to listen to the birds and cicadas.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "From Chapel Hill, North Carolina, a moment in the woods to listen to the birds and cicadas.\n\n<audio controls=\"controls\" src=\"https://smol.zuiker.com/uploads/2024/audio.mp3\" preload=\"metadata\">\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/05/02/1075.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "From Chapel Hill, North Carolina, a moment in the woods to listen to the birds and cicadas.\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/348/2024/audio.mp3\" preload=\"metadata\">\n\n<a href=\"https://smol.zuiker.com/transcripts/2024/05/02/1075.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-05-02T10:47:10-05:00",
 				"url": "https://smol.zuiker.com/2024/05/02/hum-of-cicadas.html"
 			},
