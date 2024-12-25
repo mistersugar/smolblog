@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2024/12/25/laps-in-this-pool-on.html",
+				
+				"content_html": "<p>Laps in this pool on this day in this place is quite the gift. #STX</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Laps in this pool on this day in this place is quite the gift. #STX\n\n<img src=\"uploads/2024/3a24903bb6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-12-25T09:00:34-05:00",
+				"url": "https://smol.zuiker.com/2024/12/25/laps-in-this-pool-on.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2024/12/19/the-jan-issue.html",
+				
+				"content_html": "<p>The Jan'25 issue of the Atlantic arrived earlier this week, and I immediately read the <a href=\"https://www.theatlantic.com/magazine/archive/2025/01/hawaii-monarchy-overthrow-independence/680759/?gift=IwNNhzV3mDlXfquZ60-a5_VQwAlLewFMzhPmNeIQzwE&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share\">long feature</a> about Hawaiian independence. I&rsquo;m fascinated by this. I have a personal recollection of <a href=\"https://www.iolanipalace.org\">Iolani Palace</a> that I don&rsquo;t seem ever to have blogged, so must sit to write that soon.</p>\n",
+				"content_text": "The Jan'25 issue of the Atlantic arrived earlier this week, and I immediately read the [long feature](https://www.theatlantic.com/magazine/archive/2025/01/hawaii-monarchy-overthrow-independence/680759/?gift=IwNNhzV3mDlXfquZ60-a5_VQwAlLewFMzhPmNeIQzwE&utm_source=copy-link&utm_medium=social&utm_campaign=share) about Hawaiian independence. I'm fascinated by this. I have a personal recollection of [Iolani Palace](https://www.iolanipalace.org) that I don't seem ever to have blogged, so must sit to write that soon.\n",
+				"date_published": "2024-12-19T14:16:01-05:00",
+				"url": "https://smol.zuiker.com/2024/12/19/the-jan-issue.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2024/12/19/trying-the-new.html",
+				
+				"content_html": "<p>Trying the new photo collections feature for my turtle pics, on <a href=\"https://smol.zuiker.com/crawling/\">this page</a>.</p>\n",
+				"content_text": "Trying the new photo collections feature for my turtle pics, on [this page](https://smol.zuiker.com/crawling/).\n",
+				"date_published": "2024-12-19T13:51:35-05:00",
+				"url": "https://smol.zuiker.com/2024/12/19/trying-the-new.html",
+				"tags": ["turtles"]
+			},
+			{
 				"id": "http://anton.micro.blog/2024/12/16/im-learning-the.html",
 				
 				"content_html": "<p>I’m learning the lingo. Asked my daughter (Malia, arrived home ladt night from semester in Madrid) for a fit check this morning. I am wearing my Celtic soccer jersey and green-striped Adidas Sambas. She approved.</p>\n",
