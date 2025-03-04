@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2025/03/03/til-there-are-a-lot.html",
+				
+				"content_html": "<p>TIL there are a lot of image placeholder options. Some fun ones <a href=\"https://loremipsum.io/21-of-the-best-placeholder-image-generators\">here</a> including bacon or beards or random Flickr images. Any favorites from the M.b community?</p>\n",
+				"content_text": "TIL there are a lot of image placeholder options. Some fun ones [here](https://loremipsum.io/21-of-the-best-placeholder-image-generators) including bacon or beards or random Flickr images. Any favorites from the M.b community?\n",
+				"date_published": "2025-03-03T21:09:14-05:00",
+				"url": "https://smol.zuiker.com/2025/03/03/til-there-are-a-lot.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/03/01/a-couple-of-months-ago.html",
+				
+				"content_html": "<p>A couple of months ago I asked for recommendations for graphic designers. <a href=\"https://micro.blog/pratik\">@pratik</a> pointed me to <a href=\"https://micro.blog/ningkantida\">@ningkantida</a>, which was perfect. The result is a new brand for The Zuiker Chronicles. See it and get the background <a href=\"http://zuiker.com/a-chronicles-rebrand-for-2025\">here</a>. New site using the new brand in a few weeks.</p>\n",
+				"content_text": "A couple of months ago I asked for recommendations for graphic designers. [@pratik](https://micro.blog/pratik) pointed me to [@ningkantida](https://micro.blog/ningkantida), which was perfect. The result is a new brand for The Zuiker Chronicles. See it and get the background [here](http://zuiker.com/a-chronicles-rebrand-for-2025). New site using the new brand in a few weeks.\n",
+				"date_published": "2025-03-01T19:54:51-05:00",
+				"url": "https://smol.zuiker.com/2025/03/01/a-couple-of-months-ago.html"
+			},
+			{
 				"id": "http://anton.micro.blog/2025/02/25/now-that-i-have-a.html",
 				
 				"content_html": "<p>Now that I have a new brand for the Zuiker Chronicles, I have begun to code the site to use new colors and styles. After all these years of managing my own site, I&rsquo;ve finally taken the time to <a href=\"https://sass-lang.com\">understand sass</a> and how it will ease my fumbling with css.</p>\n",
@@ -58,7 +74,7 @@
 				"id": "http://anton.micro.blog/2025/01/31/im-watching-the-apple-tv.html",
 				
 				"content_html": "<p>I&rsquo;m watching the Apple TV+ series <a href=\"https://www.imdb.com/title/tt31186958/\">Prime Target</a>, about a mathematician about to uncover the law of prime numbers&ndash;and gain power over all the word&rsquo;s encryption? It&rsquo;s a cliché, a caper, there&rsquo;s murder, intrigue, and chases. But also awesome views of Cassis, that heavenly place <a href=\"http://zuiker.com/provence\">we visited</a> in 2016.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm watching the Apple TV+ series [Prime Target](https://www.imdb.com/title/tt31186958/), about a mathematician about to uncover the law of prime numbers--and gain power over all the word's encryption? It's a cliché, a caper, there's murder, intrigue, and chases. But also awesome views of Cassis, that heavenly place [we visited](http://zuiker.com/provence) in 2016.\n\n<img src=\"uploads/2025/ddd6284336.jpg\" width=\"600\" height=\"291\" alt=\"\">\n",
+				"content_text": "I'm watching the Apple TV+ series [Prime Target](https://www.imdb.com/title/tt31186958/), about a mathematician about to uncover the law of prime numbers--and gain power over all the word's encryption? It's a cliché, a caper, there's murder, intrigue, and chases. But also awesome views of Cassis, that heavenly place [we visited](http://zuiker.com/provence) in 2016.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/ddd6284336.jpg\" width=\"600\" height=\"291\" alt=\"\">\n",
 				"date_published": "2025-01-31T17:51:05-05:00",
 				"url": "https://smol.zuiker.com/2025/01/31/im-watching-the-apple-tv.html"
 			},
@@ -66,7 +82,7 @@
 				"id": "http://anton.micro.blog/2025/01/31/friday-challah-habit.html",
 				
 				"content_html": "<p>Friday challah habit.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Friday challah habit.\n\n<img src=\"uploads/2025/ef1cc02b4d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Friday challah habit.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/ef1cc02b4d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-31T09:54:17-05:00",
 				"url": "https://smol.zuiker.com/2025/01/31/friday-challah-habit.html"
 			},
@@ -74,7 +90,7 @@
 				"id": "http://anton.micro.blog/2025/01/24/so-easy-to-make-such.html",
 				
 				"content_html": "<p>So easy to make. Such a tradition to it. Perhaps I can make this a Friday habit.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So easy to make. Such a tradition to it. Perhaps I can make this a Friday habit. \n\n<img src=\"uploads/2025/7aad8d7ff5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "So easy to make. Such a tradition to it. Perhaps I can make this a Friday habit. \n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/7aad8d7ff5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-24T10:09:12-05:00",
 				"url": "https://smol.zuiker.com/2025/01/24/so-easy-to-make-such.html"
 			},
