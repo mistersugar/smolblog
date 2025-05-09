@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2025/05/09/this-turtle-was-on-the.html",
+				
+				"content_html": "<p>This turtle was on the gravel drive closer to the main road so probably a new one for me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This turtle was on the gravel drive closer to the main road so probably a new one for me.\n\n<img src=\"uploads/2025/2185000c4e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-05-09T08:55:52-04:00",
+				"url": "https://smol.zuiker.com/2025/05/09/this-turtle-was-on-the.html",
+				"tags": ["turtles"]
+			},
+			{
+				"id": "http://anton.micro.blog/2025/04/30/first-turtle-of-the-year.html",
+				
+				"content_html": "<p>First turtle of the year. Walking across the gravel driveway.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First turtle of the year. Walking across the gravel driveway.\n\n<img src=\"uploads/2025/76a9c02a32.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-04-30T11:16:20-04:00",
+				"url": "https://smol.zuiker.com/2025/04/30/first-turtle-of-the-year.html",
+				"tags": ["turtles"]
+			},
+			{
 				"id": "http://anton.micro.blog/2025/04/27/i-spent-the-afternoon-in.html",
 				
 				"content_html": "<p>I spent the afternoon in Pittsboro participating in a fun 4x4 soccer tournament with the men and women with whom I  play pick up games each week. Perfect Carolina blue skies and warm sunshine, great camaraderie, one goal for me, and grilled carne asada meal in the parking lot after. I&rsquo;m so lucky.</p>\n",
