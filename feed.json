@@ -7,10 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2025/05/15/dinner-with-erin-anna-and.html",
+				
+				"content_html": "<p>Dinner with Erin, Anna, and Malia at our favorite place in Carrboro, Pizzeria Mercato. Then over to Carrboro High School to hear Oliver solo in the Jazz Band&rsquo;s concert. Home, a cold beer, rewatching The Bear &lsquo;Forks&rsquo; (S2E7). Such a great episode, a challenge to make every moment meaningful.</p>\n",
+				"content_text": "Dinner with Erin, Anna, and Malia at our favorite place in Carrboro, Pizzeria Mercato. Then over to Carrboro High School to hear Oliver solo in the Jazz Band's concert. Home, a cold beer, rewatching The Bear 'Forks' (S2E7). Such a great episode, a challenge to make every moment meaningful.\n",
+				"date_published": "2025-05-15T22:30:38-04:00",
+				"url": "https://smol.zuiker.com/2025/05/15/dinner-with-erin-anna-and.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/12/one-of-our-cats-went.html",
+				
+				"content_html": "<p>One of our cats went missing last night. Something just got into the chicken coop and killed one of the hens (she had just recuperated from the last attack). The wildlife is winning.</p>\n",
+				"content_text": "One of our cats went missing last night. Something just got into the chicken coop and killed one of the hens (she had just recuperated from the last attack). The wildlife is winning.\n",
+				"date_published": "2025-05-12T22:26:12-04:00",
+				"url": "https://smol.zuiker.com/2025/05/12/one-of-our-cats-went.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/12/after-many-months-my-web.html",
+				
+				"content_html": "<p>After many months, my 2025 web strategy hits a couple of milestones: I&rsquo;ve updated the look of <a href=\"http://zuiker.com/the-chronicles-at-25\">Zuiker Chronicles Online</a>, my main blog (on the Web since 2000), and also updated my personal about/bio page <a href=\"https://antonzuiker.com\">antonzuiker.com</a>. Now I can get back to posting regularly on Micro.blog.</p>\n",
+				"content_text": "After many months, my 2025 web strategy hits a couple of milestones: I've updated the look of [Zuiker Chronicles Online](http://zuiker.com/the-chronicles-at-25), my main blog (on the Web since 2000), and also updated my personal about/bio page [antonzuiker.com](https://antonzuiker.com). Now I can get back to posting regularly on Micro.blog.\n",
+				"date_published": "2025-05-12T20:59:06-04:00",
+				"url": "https://smol.zuiker.com/2025/05/12/after-many-months-my-web.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/11/finished-reading-this-last-night.html",
+				
+				"content_html": "<p>Finished reading this last night: <a href=\"https://micro.blog/books/9780593135228\">Project Hail Mary: A Novel</a> by Andy Weir. It&rsquo;s the second space-based novel in a row that our Science Writers Book Club is reading. This one was fun. 📚</p>\n",
+				"content_text": "Finished reading this last night: [Project Hail Mary: A Novel](https://micro.blog/books/9780593135228) by Andy Weir. It's the second space-based novel in a row that our Science Writers Book Club is reading. This one was fun. 📚\n",
+				"date_published": "2025-05-11T07:12:32-04:00",
+				"url": "https://smol.zuiker.com/2025/05/11/finished-reading-this-last-night.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/09/anna-saw-this-turtle-near.html",
+				
+				"content_html": "<p>Anna saw this turtle earlier this week near where we park our cars. This was in afternoon sun.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Anna saw this turtle earlier this week near where we park our cars. This was in afternoon sun. \n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/2889cd9403.jpg\" width=\"591\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-09T14:50:25-04:00",
+				"url": "https://smol.zuiker.com/2025/05/09/anna-saw-this-turtle-near.html",
+				"tags": ["turtles"]
+			},
+			{
 				"id": "http://anton.micro.blog/2025/05/09/this-turtle-was-on-the.html",
 				
 				"content_html": "<p>This turtle was on the gravel drive closer to the main road so probably a new one for me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This turtle was on the gravel drive closer to the main road so probably a new one for me.\n\n<img src=\"uploads/2025/2185000c4e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This turtle was on the gravel drive closer to the main road so probably a new one for me.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/2185000c4e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-05-09T08:55:52-04:00",
 				"url": "https://smol.zuiker.com/2025/05/09/this-turtle-was-on-the.html",
 				"tags": ["turtles"]
@@ -19,7 +60,7 @@
 				"id": "http://anton.micro.blog/2025/04/30/first-turtle-of-the-year.html",
 				
 				"content_html": "<p>First turtle of the year. Walking across the gravel driveway.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First turtle of the year. Walking across the gravel driveway.\n\n<img src=\"uploads/2025/76a9c02a32.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "First turtle of the year. Walking across the gravel driveway.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/boxturtleapril302025.jpeg\" width=\"600\" height=\"481\" alt=\"Auto-generated description: A turtle with a patterned shell is walking on a gravel path.\">\n",
 				"date_published": "2025-04-30T11:16:20-04:00",
 				"url": "https://smol.zuiker.com/2025/04/30/first-turtle-of-the-year.html",
 				"tags": ["turtles"]
