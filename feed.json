@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2025/05/22/early-this-morning-erin-took.html",
+				
+				"content_html": "<p>Early this morning, Erin took Oliver, our youngest, to get his learner&rsquo;s permit, so after work he and I got into the red Ford Ranger and went for a drive toward Pittsboro. Oliver was smooth, calm, safe. I&rsquo;m so proud of him.</p>\n",
+				"content_text": "Early this morning, Erin took Oliver, our youngest, to get his learner's permit, so after work he and I got into the red Ford Ranger and went for a drive toward Pittsboro. Oliver was smooth, calm, safe. I'm so proud of him.\n",
+				"date_published": "2025-05-22T20:54:10-04:00",
+				"url": "https://smol.zuiker.com/2025/05/22/early-this-morning-erin-took.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/19/in-march-dave-forecasted-the.html",
+				
+				"content_html": "<p>In March, <a href=\"https://micro.blog/dave\">@dave</a> <a href=\"http://scripting.com/2025/02/11.html\">forecasted</a> the end of feedland.org and feedland.com. I have used both, for my <a href=\"http://news.mistersugar.com\">news product</a> and for <a href=\"http://dukeriver.news\">dukeriver.news</a>. I&rsquo;m happy to say I&rsquo;ve got my own instance of Feedland running. I&rsquo;m stuck at the next level but expect to get the extra features (user feeds, likes) added soon.</p>\n",
+				"content_text": "In March, [@dave](https://micro.blog/dave) [forecasted](http://scripting.com/2025/02/11.html) the end of feedland.org and feedland.com. I have used both, for my [news product](http://news.mistersugar.com) and for [dukeriver.news](http://dukeriver.news). I'm happy to say I've got my own instance of Feedland running. I'm stuck at the next level but expect to get the extra features (user feeds, likes) added soon.\n",
+				"date_published": "2025-05-19T21:46:07-04:00",
+				"url": "https://smol.zuiker.com/2025/05/19/in-march-dave-forecasted-the.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/17/congratulations-to-aaron-and-the.html",
+				
+				"content_html": "<p>Congratulations to Aaron and the crew at Leatherback Brewing on St. Croix celebrating 7th anniversary today. This is me in NC wearing a shirt to join the party from afar.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Congratulations to Aaron and the crew at Leatherback Brewing on St. Croix celebrating 7th anniversary today. This is me in NC wearing a shirt to join the party from afar. \n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/cc2a0c2b20.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-05-17T13:56:58-04:00",
+				"url": "https://smol.zuiker.com/2025/05/17/congratulations-to-aaron-and-the.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/17/doing-dishes-and-looked-out.html",
+				
+				"content_html": "<p>Doing dishes and looked out to see squirrel upside down on oak tree, making its danger chirps. Since our cats are gone (coyotes this week) I wondered if a snake. Sure enough, this black snake around a tulip poplar sapling.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Doing dishes and looked out to see squirrel upside down on oak tree, making its danger chirps. Since our cats are gone (coyotes this week) I wondered if a snake. Sure enough, this black snake around a tulip poplar sapling.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/aa7bc4c70f.jpg\" width=\"486\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-17T13:54:24-04:00",
+				"url": "https://smol.zuiker.com/2025/05/17/doing-dishes-and-looked-out.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/05/16/morning-coffee-on-the-porch.html",
+				
+				"content_html": "<p>Morning coffee on the porch with birdsong and heavy smell of smoke. Exploring writings of <a href=\"https://micro.blog/chrisaldrich\">@chrisaldrich</a> I am delighted to have learned about <a href=\"https://boffosocko.com/2023/09/24/lichtenberg-on-note-taking/\">waste books</a> which explains my messy note taking practice. Now I see opportunity to translate these notes into more.</p>\n",
+				"content_text": "Morning coffee on the porch with birdsong and heavy smell of smoke. Exploring writings of [@chrisaldrich](https://micro.blog/chrisaldrich) I am delighted to have learned about [waste books](https://boffosocko.com/2023/09/24/lichtenberg-on-note-taking/) which explains my messy note taking practice. Now I see opportunity to translate these notes into more. \n",
+				"date_published": "2025-05-16T07:47:06-04:00",
+				"url": "https://smol.zuiker.com/2025/05/16/morning-coffee-on-the-porch.html"
+			},
+			{
 				"id": "http://anton.micro.blog/2025/05/15/dinner-with-erin-anna-and.html",
 				
 				"content_html": "<p>Dinner with Erin, Anna, and Malia at our favorite place in Carrboro, Pizzeria Mercato. Then over to Carrboro High School to hear Oliver solo in the Jazz Band&rsquo;s concert. Home, a cold beer, rewatching The Bear &lsquo;Forks&rsquo; (S2E7). Such a great episode, a challenge to make every moment meaningful.</p>\n",
@@ -7106,7 +7146,7 @@
 				"id": "http://anton.micro.blog/2018/09/09/134800.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Another big rain, another box turtle on the move, this one in my path as i walked to retrieve the Sunday NYTimes.</p>\n",
-				"content_text": "<a href=\"https://cdn.uploads.micro.blog/348/2018/f33e9e8dab.jpg\"><img src=\"https://cdn.uploads.micro.blog/348/2018/f33e9e8dab.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nAnother big rain, another box turtle on the move, this one in my path as i walked to retrieve the Sunday NYTimes. \n\n",
+				"content_text": "<a href=\"http://smol.zuiker.com/uploads/2018/f33e9e8dab.jpg\"><img src=\"uploads/2018/f33e9e8dab.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nAnother big rain, another box turtle on the move, this one in my path as i walked to retrieve the Sunday NYTimes. \n\n",
 				"date_published": "2018-09-09T09:48:00-04:00",
 				"url": "https://smol.zuiker.com/2018/09/09/134800.html",
 				"tags": ["turtles"]
@@ -7115,7 +7155,7 @@
 				"id": "http://anton.micro.blog/2018/09/03/i-was-out.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I was out walking woods again, checking on the fire ring we cleared Saturday and almost stepping on this turtle. Walked back to house and found good friends had stopped by to bring pickled sour cherries as consolation for my missing our annual road trip to pick cherries jn VA.</p>\n",
-				"content_text": "\n<a href=\"https://cdn.uploads.micro.blog/348/2018/3ac2f15c22.jpg\"><img src=\"https://cdn.uploads.micro.blog/348/2018/3ac2f15c22.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/348/2018/4cc3950e8f.jpg\"><img src=\"https://cdn.uploads.micro.blog/348/2018/4cc3950e8f.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nI was out walking woods again, checking on the fire ring we cleared Saturday and almost stepping on this turtle. Walked back to house and found good friends had stopped by to bring pickled sour cherries as consolation for my missing our annual road trip to pick cherries jn VA.\n\n",
+				"content_text": "\n<a href=\"http://smol.zuiker.com/uploads/2018/3ac2f15c22.jpg\"><img src=\"uploads/2018/3ac2f15c22.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://smol.zuiker.com/uploads/2018/4cc3950e8f.jpg\"><img src=\"uploads/2018/4cc3950e8f.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nI was out walking woods again, checking on the fire ring we cleared Saturday and almost stepping on this turtle. Walked back to house and found good friends had stopped by to bring pickled sour cherries as consolation for my missing our annual road trip to pick cherries jn VA.\n\n",
 				"date_published": "2018-09-03T18:19:00-04:00",
 				"url": "https://smol.zuiker.com/2018/09/03/i-was-out.html",
 				"tags": ["turtles"]
@@ -7124,7 +7164,7 @@
 				"id": "http://anton.micro.blog/2018/09/02/discovered-cool-photo.html",
 				
 				"content_html": "<p>Discovered cool photo features of my new iPhone 8 Plus: profile mode with lighting options. Used it on a turtle shell my son and his friend found this afternoon in the woods out back.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Discovered cool photo features of my new iPhone 8 Plus: profile mode with lighting options. Used it on a turtle shell my son and his friend found this afternoon in the woods out back.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/b84c710b56.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Discovered cool photo features of my new iPhone 8 Plus: profile mode with lighting options. Used it on a turtle shell my son and his friend found this afternoon in the woods out back.\n\n<img src=\"uploads/2018/b84c710b56.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-02T18:18:00-04:00",
 				"url": "https://smol.zuiker.com/2018/09/02/discovered-cool-photo.html",
 				"tags": ["turtles"]
@@ -7133,7 +7173,7 @@
 				"id": "http://anton.micro.blog/2018/08/29/sounds-of-the.html",
 				"title": "Sounds of the South Pacific",
 				"content_html": "<!-- raw HTML omitted -->\n<p>We&rsquo;ve been back from our epic South Pacific trip for nearly two months, and only now am I getting a chance to log the various sound recordings I made during our week in Vanuatu. I hope to stitch together the best of the sounds and interviews into an audio postcard. Here, though, is one full clip of my interview with my son, Oliver, on the morning we first woke up at Erakor Island Resort in Port Vila, the capital of Vanuatu.</p>\n<p>That&rsquo;s Oliver in the green swim shirt in the photo above.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/348/2018/4c24e48ace.jpg\" width=\"600\" height=\"450\" />\n\nWe've been back from our epic South Pacific trip for nearly two months, and only now am I getting a chance to log the various sound recordings I made during our week in Vanuatu. I hope to stitch together the best of the sounds and interviews into an audio postcard. Here, though, is one full clip of my interview with my son, Oliver, on the morning we first woke up at Erakor Island Resort in Port Vila, the capital of Vanuatu.\n\nThat's Oliver in the green swim shirt in the photo above.\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/348/2018/e103c6a399.mp3\" />\n",
+				"content_text": "<img src=\"uploads/2018/4c24e48ace.jpg\" width=\"600\" height=\"450\" />\n\nWe've been back from our epic South Pacific trip for nearly two months, and only now am I getting a chance to log the various sound recordings I made during our week in Vanuatu. I hope to stitch together the best of the sounds and interviews into an audio postcard. Here, though, is one full clip of my interview with my son, Oliver, on the morning we first woke up at Erakor Island Resort in Port Vila, the capital of Vanuatu.\n\nThat's Oliver in the green swim shirt in the photo above.\n\n<audio controls=\"controls\" src=\"http://smol.zuiker.com/uploads/2018/e103c6a399.mp3\" />\n",
 				"date_published": "2018-08-28T22:30:14-04:00",
 				"url": "https://smol.zuiker.com/2018/08/28/sounds-of-the.html"
 			},
@@ -7141,7 +7181,7 @@
 				"id": "http://anton.micro.blog/2018/07/30/another-big-rain.html",
 				
 				"content_html": "<p>Another big rain, another creature crawling across the yard. This an Eastern box turtle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another big rain, another creature crawling across the yard. This an Eastern box turtle.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/d59e27a9a8.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Another big rain, another creature crawling across the yard. This an Eastern box turtle.\n\n<img src=\"uploads/2018/d59e27a9a8.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-30T19:05:00-04:00",
 				"url": "https://smol.zuiker.com/2018/07/30/another-big-rain.html",
 				"tags": ["turtles"]
@@ -7150,7 +7190,7 @@
 				"id": "http://anton.micro.blog/2018/07/19/during-our-trip.html",
 				
 				"content_html": "<p>During our trip to Vanuatu, I was happy to see World Cup fever, with many people flying the flag of their chosen team on their trucks, buses, and attached to bamboo high above their houses. Here&rsquo;s a truck for France crossing the Yasur ash plain on Tanna.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "During our trip to Vanuatu, I was happy to see World Cup fever, with many people flying the flag of their chosen team on their trucks, buses, and attached to bamboo high above their houses. Here's a truck for France crossing the Yasur ash plain on Tanna.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/f52ad79b5c.jpg\" width=\"600\" height=\"418\" />\n",
+				"content_text": "During our trip to Vanuatu, I was happy to see World Cup fever, with many people flying the flag of their chosen team on their trucks, buses, and attached to bamboo high above their houses. Here's a truck for France crossing the Yasur ash plain on Tanna.\n\n<img src=\"uploads/2018/f52ad79b5c.jpg\" width=\"600\" height=\"418\" />\n",
 				"date_published": "2018-07-19T16:27:30-04:00",
 				"url": "https://smol.zuiker.com/2018/07/19/during-our-trip.html"
 			},
@@ -7158,7 +7198,7 @@
 				"id": "http://anton.micro.blog/2018/07/19/one-photo-from.html",
 				
 				"content_html": "<p>One photo from our evening atop Yasur volcano on Tanna Island in the Republic of Vanuatu. If things ever settle down at home (major plumbing and water problems!), I&rsquo;ll write about the trip and all we did.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One photo from our evening atop Yasur volcano on Tanna Island in the Republic of Vanuatu. If things ever settle down at home (major plumbing and water problems!), I'll write about the trip and all we did.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/d884b51000.jpg\" width=\"600\" height=\"398\" />\n",
+				"content_text": "One photo from our evening atop Yasur volcano on Tanna Island in the Republic of Vanuatu. If things ever settle down at home (major plumbing and water problems!), I'll write about the trip and all we did.\n\n<img src=\"uploads/2018/d884b51000.jpg\" width=\"600\" height=\"398\" />\n",
 				"date_published": "2018-07-19T10:47:18-04:00",
 				"url": "https://smol.zuiker.com/2018/07/19/one-photo-from.html"
 			},
@@ -7182,7 +7222,7 @@
 				"id": "http://anton.micro.blog/2018/06/27/vanuatu-here-we.html",
 				
 				"content_html": "<p>Vanuatu, here we come!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Vanuatu, here we come!\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/be1e9189ab.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Vanuatu, here we come!\n\n<img src=\"uploads/2018/be1e9189ab.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-27T05:09:56-04:00",
 				"url": "https://smol.zuiker.com/2018/06/27/vanuatu-here-we.html"
 			},
@@ -7190,7 +7230,7 @@
 				"id": "http://anton.micro.blog/2018/06/19/box-turtle-near.html",
 				
 				"content_html": "<p>Box turtle near car wheel.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Box turtle near car wheel.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/e1b320b947.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_text": "Box turtle near car wheel.\n\n<img src=\"uploads/2018/e1b320b947.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-06-19T08:04:00-04:00",
 				"url": "https://smol.zuiker.com/2018/06/19/box-turtle-near.html",
 				"tags": ["turtles"]
@@ -7207,7 +7247,7 @@
 				"id": "http://anton.micro.blog/2018/05/21/the-box-turtles.html",
 				
 				"content_html": "<p>The box turtles are on the move today across the Triangle. Found this one in my neighborhood, and just passed over another 5 on way to work. Take care not to crunch them!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The box turtles are on the move today across the Triangle. Found this one in my neighborhood, and just passed over another 5 on way to work. Take care not to crunch them!\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/dabb51fe7f.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "The box turtles are on the move today across the Triangle. Found this one in my neighborhood, and just passed over another 5 on way to work. Take care not to crunch them!\n\n<img src=\"uploads/2018/dabb51fe7f.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-21T08:10:00-04:00",
 				"url": "https://smol.zuiker.com/2018/05/21/the-box-turtles.html",
 				"tags": ["turtles"]
@@ -7225,7 +7265,7 @@
 				"id": "http://anton.micro.blog/2018/05/12/walked-the-land.html",
 				
 				"content_html": "<p>Walked the land at my new house and came upon a box turtle with a black ant clamped to its eyelid. Later noticed this interesting plant. Also found many cedar trees that will make good posts for the garden we will plant soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walked the land at my new house and came upon a box turtle with a black ant clamped to its eyelid. Later noticed this interesting plant. Also found many cedar trees that will make good posts for the garden we will plant soon. \n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/e7993a1b58.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Walked the land at my new house and came upon a box turtle with a black ant clamped to its eyelid. Later noticed this interesting plant. Also found many cedar trees that will make good posts for the garden we will plant soon. \n\n<img src=\"uploads/2018/e7993a1b58.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-11T20:42:16-04:00",
 				"url": "https://smol.zuiker.com/2018/05/11/walked-the-land.html",
 				"tags": ["turtles"]
@@ -7243,7 +7283,7 @@
 				"id": "http://anton.micro.blog/2018/03/22/morning-walk-in.html",
 				
 				"content_html": "<p>Morning walk in the rain to see the Pacific, Seattle waterfront. In 3 months will be across the ocean in Vanuatu.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning walk in the rain to see the Pacific, Seattle waterfront. In 3 months will be across the ocean in Vanuatu.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2018/ce04e26c9c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Morning walk in the rain to see the Pacific, Seattle waterfront. In 3 months will be across the ocean in Vanuatu.\n\n<img src=\"uploads/2018/ce04e26c9c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-03-22T10:14:39-04:00",
 				"url": "https://smol.zuiker.com/2018/03/22/morning-walk-in.html"
 			},
