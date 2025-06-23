@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2025/06/23/our-visit-to-old-dalymount.html",
+				
+				"content_html": "<p>Our visit to old Dalymount Park did not disappoint tonight, with total attendance at 4421 and Bohemia FC beating Shamrock Rovers 2-nil. Erin and I stood, then sat, in the Des Kelly Stand, though both Bohs goals were in the first half at the other end. Dublin has such energy. #Ireland</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our visit to old Dalymount Park did not disappoint tonight, with total attendance at 4421 and Bohemia FC beating Shamrock Rovers 2-nil. Erin and I stood, then sat, in the Des Kelly Stand, though both Bohs goals were in the first half at the other end. Dublin has such energy. #Ireland\n\n<img src=\"uploads/2025/dalymountparkjune2025.jpeg\" width=\"600\" height=\"360\" alt=\"\">\n",
+				"date_published": "2025-06-23T22:32:03+01:00",
+				"url": "https://smol.zuiker.com/2025/06/23/our-visit-to-old-dalymount.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/06/21/somehow-i-missed-the-news.html",
+				
+				"content_html": "<p>Somehow I missed the news that <a href=\"https://colummccann.com\">Colum McCann</a> has a new novel, yet since I check the shelves of any bookstore I visit, I came across Twist in a shop steps from Kilkenny Castle. Was already having a great day and that made it even better.</p>\n",
+				"content_text": "Somehow I missed the news that [Colum McCann](https://colummccann.com) has a new novel, yet since I check the shelves of any bookstore I visit, I came across Twist in a shop steps from Kilkenny Castle. Was already having a great day and that made it even better. \n",
+				"date_published": "2025-06-21T23:12:31+01:00",
+				"url": "https://smol.zuiker.com/2025/06/21/somehow-i-missed-the-news.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/06/18/texture-old-and-new-in.html",
+				
+				"content_html": "<p>Texture old and new in Ireland on a lovely day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Texture old and new in Ireland on a lovely day.\n\n<img src=\"uploads/2025/a530ec80fe.jpg\" width=\"600\" height=\"524\" alt=\"Stone arch in County Wicklow, Ireland. \">\n",
+				"date_published": "2025-06-18T16:01:12+01:00",
+				"url": "https://smol.zuiker.com/2025/06/18/texture-old-and-new-in.html"
+			},
+			{
 				"id": "http://anton.micro.blog/2025/06/18/overnight-flight-to-dublin-on.html",
 				
-				"content_html": "<p>Overnight flight to Dublin on a 777 and just like that I am having cappuccino and croissant at Nick’s Coffee in Wicklow, Ireland, a few minutes after a walk to Travelahawk Beach and the ruins of Black Castle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Overnight flight to Dublin on a 777 and just like that I am having cappuccino and croissant at Nick’s Coffee in Wicklow, Ireland, a few minutes after a walk to Travelahawk Beach and the ruins of Black Castle.\n\n<img src=\"uploads/2025/4da4ded7d4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-06-18T02:56:48-04:00",
+				"content_html": "<p>Overnight flight to Dublin on a 777 and just like that I am having cappuccino and croissant at <a href=\"https://www.nickscoffeecompany.ie/\">Nick’s Coffee</a> in Wicklow, Ireland, a few minutes after a walk to Travelahawk Beach and the ruins of Black Castle.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Overnight flight to Dublin on a 777 and just like that I am having cappuccino and croissant at [Nick’s Coffee](https://www.nickscoffeecompany.ie/) in Wicklow, Ireland, a few minutes after a walk to Travelahawk Beach and the ruins of Black Castle.\n\n<img src=\"uploads/2025/4da4ded7d4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-18T07:56:48+01:00",
 				"url": "https://smol.zuiker.com/2025/06/18/overnight-flight-to-dublin-on.html"
 			},
 			{
@@ -19,14 +43,14 @@
 				
 				"content_html": "<p>Lunch break critter #2: admittedly cute raccoon, fluffy white belly, in the chicken run but hadn’t yet stolen the 2 eggs, scampered out and up 60 feet of tall oak tree. (Must finish wire top to the run!)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Lunch break critter #2: admittedly cute raccoon, fluffy white belly, in the chicken run but hadn’t yet stolen the 2 eggs, scampered out and up 60 feet of tall oak tree. (Must finish wire top to the run!)\n\n<img src=\"uploads/2025/710d3c4e84.jpg\" width=\"320\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-06-11T13:22:39-04:00",
+				"date_published": "2025-06-11T18:22:39+01:00",
 				"url": "https://smol.zuiker.com/2025/06/11/lunch-break-critter-admittedly-cute.html"
 			},
 			{
 				"id": "http://anton.micro.blog/2025/06/11/lunch-break-critter-black-snake.html",
 				
 				"content_html": "<p>Lunch break critter #1: black snake near rock pile.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lunch break critter #1: black snake near rock pile. \n\n<img src=\"uploads/2025/7c7e43f943.jpg\" width=\"600\" height=\"438\" alt=\"\">\n",
+				"content_text": "Lunch break critter #1: black snake near rock pile. \n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/7c7e43f943.jpg\" width=\"600\" height=\"438\" alt=\"\">\n",
 				"date_published": "2025-06-11T13:20:33-04:00",
 				"url": "https://smol.zuiker.com/2025/06/11/lunch-break-critter-black-snake.html"
 			},
