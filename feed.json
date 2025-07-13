@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://anton.micro.blog/2025/07/13/one-more-test-post-to.html",
+				
+				"content_html": "<p>One more test post to confirm connection to Mastodon (I&rsquo;m @mistersugar on opalstack.social).</p>\n",
+				"content_text": "One more test post to confirm connection to Mastodon (I'm @mistersugar on opalstack.social).\n",
+				"date_published": "2025-07-13T19:04:54-04:00",
+				"url": "https://smol.zuiker.com/2025/07/13/one-more-test-post-to.html"
+			},
+			{
+				"id": "http://anton.micro.blog/2025/07/12/just-a-test-post-as.html",
+				
+				"content_html": "<p>Just a test post as I reconnect my Micro.blog account to Bluesky and Mastodon.</p>\n",
+				"content_text": "Just a test post as I reconnect my Micro.blog account to Bluesky and Mastodon.\n",
+				"date_published": "2025-07-12T14:21:42-04:00",
+				"url": "https://smol.zuiker.com/2025/07/12/just-a-test-post-as.html"
+			},
+			{
 				"id": "http://anton.micro.blog/2025/07/12/stepped-outside-to-walk-up.html",
 				
 				"content_html": "<p>Stepped outside to walk up to my studio office. ‘Will I see turtles or snakes?’ I asked. A few paces up the gravel drive and this turtle was waiting. A few paces more, a pileated woodpecker high in a loblolly pine. As I unlocked the studio, a screaming hawk alighted in another pine.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -37,7 +53,7 @@
 				"id": "http://anton.micro.blog/2025/07/11/another-creature-encountered-near-my.html",
 				
 				"content_html": "<p>Another creature encountered near my studio office.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another creature encountered near my studio office.\n\n<img src=\"uploads/2025/875096cb5f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Another creature encountered near my studio office.\n\n<img src=\"https://cdn.uploads.micro.blog/348/2025/875096cb5f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-11T23:07:41-04:00",
 				"url": "https://smol.zuiker.com/2025/07/11/another-creature-encountered-near-my.html"
 			},
